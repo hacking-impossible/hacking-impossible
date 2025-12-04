@@ -1,9 +1,6 @@
 ## Experienced Full Stack Web & AI Engineer
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. I am always trying harder to find new and more effective ways to solve problems. I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code. Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hacking-impossible&column=8)](https://github-profile-trophy.vercel.app/?username=hacking-impossible&column=8)
-
 ## Skills 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
